@@ -50,3 +50,10 @@ body {
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch; /* 모바일 부드러운 스크롤 */
 }
+.scroll-gallery img {
+  height: 450px; /* 필요 시 더 크게/작게 조정 가능 */
+  flex-shrink: 0;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
