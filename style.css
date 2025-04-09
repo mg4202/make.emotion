@@ -36,4 +36,8 @@ body {
     border-radius: 8px;
     margin-top: 10px;
   }
-  
+    .small-img {
+    width: 25%;
+    display: block;
+    margin: 20px auto;
+  }
