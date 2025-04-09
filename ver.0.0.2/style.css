@@ -1,0 +1,39 @@
+/* style.css */
+body {
+    font-family: 'Pretendard', sans-serif;
+    background-color: #F9F6F0;
+    color: #2E3840;
+    margin: 0;
+    padding: 0;
+    line-height: 1.8;
+  }
+  
+  section {
+    padding: 80px 20px;
+    max-width: 700px;
+    margin: auto;
+    border-bottom: 1px solid #e0ddd7;
+  }
+  
+  h1, h2 {
+    font-family: 'Nanum Myeongjo', serif;
+    color: #3E5C49;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .home {
+    text-align: center;
+    background: #F3F0E7;
+    padding: 100px 20px;
+  }
+  
+  .work-item img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
